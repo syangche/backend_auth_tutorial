@@ -489,7 +489,7 @@ type Variables = JwtVariables
 const app = new Hono<{ Variables: Variables }>()
 ```
 
-Next, we can create a middleware function called `auth` that verifies the JWT token sent by the user in the Authorization header.
+Next, we can use the middleware function called `jwt` that verifies the JWT token sent by the user in the Authorization header.
 
 ```typescript title="src/index.ts" linenums="17" hl_lines="1-6"
 app.use(
