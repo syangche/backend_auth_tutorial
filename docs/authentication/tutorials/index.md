@@ -1,4 +1,4 @@
-# Token-based (Email & Password)
+# Token-based (Email & Password )
 
 This guided tutorial is part of a series of articles on building an authenticated backend with TypeScript, Hono, PostgreSQL, and Prisma. In this first tutorial, we'll look at how to secure the REST API with password authentication using Prisma for token storage and implement authorization.
 
