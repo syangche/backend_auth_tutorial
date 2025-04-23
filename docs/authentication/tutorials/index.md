@@ -31,8 +31,8 @@ The source code for the tutorial can be found on [GitHub].
 To get started, clone the repository and install the dependencies:
 
 ```sh
-git clone https://github.com/rubcstswe/web102-hono-auth-jwt-prisma.git
-cd web102-hono-auth-jwt-prisma
+git clone https://github.com/rubcstswe/web102-hono-auth-jwt-prisma-forked.git
+cd web102-hono-auth-jwt-prisma-forked
 bun install
 ```
 
