@@ -570,8 +570,3 @@ app.get("/protected/account/balance", async (c) => {
 6. The user's account balance is returned in the JSON response.
 
 
-## Next steps
-
-In the next tutorial, we will explore how to implement sending an email verification token to the user upon registration. The user will need to verify their email address before they can log in and access the protected endpoints.
-
-Addtionally, we will be exploring on refresh tokens and how to implement them in the authentication flow as well as functionality of forgetting and resetting passwords.
